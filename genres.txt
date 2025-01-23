@@ -1,0 +1,6 @@
+Action
+Comedy
+Romcom
+Fantasy
+Sci-Fi
+Drama
